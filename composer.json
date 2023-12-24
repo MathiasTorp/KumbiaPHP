@@ -1,5 +1,5 @@
 {
-    "config": {
+*   "config": {
         "sort-packages": true
     },
     "description": "The KumbiaPHP framework.",
@@ -22,3 +22,4 @@
     },
     "type": "project"
 }
+ 
